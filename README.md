@@ -23,5 +23,22 @@
 
 ![image](https://user-images.githubusercontent.com/45924381/194164750-4925a514-8a19-4846-8a93-774ad7cbf6e6.png)
 
+### Creamos los modulos
+`ng generate module fruits --routing`
+``
+
+### Creamos los componentes
+`ng generate component fruits/home`
+
+`ng generate component fruits/create`
+
+`ng generate component fruits/edit`
+
+### Creamos los servicios
+`ng generate service fruits/fruits`
+
+### Creamos la interface
+`ng generate interface fruits/fruits`
+
 
 
