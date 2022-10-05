@@ -12,4 +12,9 @@
 
 ![image](https://user-images.githubusercontent.com/45924381/194155587-8ded42a3-4f54-484e-8e48-9a24783710f5.png)
 
+### Ejecutamos el siguiente comando para ejecutar el comando agregado
+`npm run json-run`
+
+
+
 
