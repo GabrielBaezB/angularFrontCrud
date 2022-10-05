@@ -25,7 +25,6 @@
 
 ### Creamos los modulos
 `ng generate module fruits --routing`
-``
 
 ### Creamos los componentes
 `ng generate component fruits/home`
