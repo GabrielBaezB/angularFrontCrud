@@ -1,0 +1,35 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Mangos",
+      "price": 180,
+      "quantity": 50
+    },
+    {
+      "id": 2,
+      "name": "Platano",
+      "quantity": 10,
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "Durazno",
+      "quantity": 10,
+      "price": 350
+    },
+    {
+      "id": 4,
+      "name": "Sandia",
+      "price": 2500,
+      "quantity": 40
+    },
+    {
+      "id": 5,
+      "name": "Pera",
+      "price": 600,
+      "quantity": 20
+    }
+  
+  ]
+}
