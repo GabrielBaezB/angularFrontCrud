@@ -18,6 +18,10 @@
 
 >Esto creara un archivo llamada db.json o nombre que usted elija al momento de agregar el comando en el archivo 'package.json'. Ahora acceda al punto de enlace de la API como 'http://localhost:3000/fruits'.
 
+### Instalamos Bootstrap y configuramos en 'angular.json'
+`npm install bootstrap`
+
+![image](https://user-images.githubusercontent.com/45924381/194164750-4925a514-8a19-4846-8a93-774ad7cbf6e6.png)
 
 
 
