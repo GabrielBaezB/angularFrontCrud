@@ -12,8 +12,11 @@
 
 ![image](https://user-images.githubusercontent.com/45924381/194155587-8ded42a3-4f54-484e-8e48-9a24783710f5.png)
 
-### Ejecutamos el siguiente comando para ejecutar el comando agregado
+### Ejecutamos el siguiente comando
+
 `npm run json-run`
+
+>Esto creara un archivo llamada db.json o nombre que usted elija al momento de agregar el comando en el archivo 'package.json'. Ahora acceda al punto de enlace de la API como 'http://localhost:3000/fruits'.
 
 
 
